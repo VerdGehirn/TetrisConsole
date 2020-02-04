@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1580467254 source:d:\touchn't this\tetris\src\gamecontroller.cpp
+	"GameController.h"
+	<stdio.h>
+
+1580467096 d:\touchn't this\tetris\src\gamecontroller.h
+	<windows.h>
+	<vector>
+
+1580377697 source:d:\touchn't this\tetris\main.cpp
+	<iostream>
+	"TetrisController.h"
+
+1580467096 d:\touchn't this\tetris\src\\gamecontroller.h
+	<windows.h>
+	<vector>
+
+1580287557 d:\touchn't this\tetris\src\\tetriscontroller.h
+	<GameController.h>
+	"TetrisArea.h"
+	"Piece.h"
+
+1580463222 d:\touchn't this\tetris\src\\piece.h
+	<array>
+	<string>
+	"GameController.h"
+	"TetrisArea.h"
+
+1580466139 source:d:\touchn't this\tetris\src\tetriscontroller.cpp
+	"TetrisController.h"
+
+1580287557 d:\touchn't this\tetris\src\tetriscontroller.h
+	<GameController.h>
+	"TetrisArea.h"
+	"Piece.h"
+
+1580806240 source:d:\touchn't this\tetris\src\piece.cpp
+	"Piece.h"
+	"GameController.h"
+	<time.h>
+
+1580463222 d:\touchn't this\tetris\src\piece.h
+	<array>
+	<string>
+	"GameController.h"
+	"TetrisArea.h"
+
+1580464908 d:\touchn't this\tetris\src\\tetrisarea.h
+	<vector>
+	"GameController.h"
+
+1580464908 d:\touchn't this\tetris\src\tetrisarea.h
+	<vector>
+	"GameController.h"
+
+1580466207 source:d:\touchn't this\tetris\src\tetrisarea.cpp
+	"TetrisArea.h"
+
